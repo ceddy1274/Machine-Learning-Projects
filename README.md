@@ -1,2 +1,2 @@
 # YouTube Tutorials
-Programming projects I have recreated from youtube tutorials to gain more programming experience
+Programming projects I have recreated from Youtube tutorials to gain more programming experience
